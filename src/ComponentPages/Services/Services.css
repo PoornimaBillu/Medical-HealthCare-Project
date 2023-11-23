@@ -1,0 +1,37 @@
+h2{
+    margin-top: 100px;
+}
+.sh{
+    color:lightgreen;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    
+}
+.sp{
+    
+    color: lightblue;
+    margin-top: 20px;
+}
+.imgs{
+    margin-top: 100px;
+    height: 170px;
+    width: 170px;
+}
+.ps1{
+    font-size: 12px;
+    line-height: 22px;
+}
+.psh{
+    margin-top: 100px;
+    color:darkseagreen;
+    font-weight: 500;
+    font-size: 16px;
+   
+}
+.psh6{
+    color:darkturquoise;
+    font-weight: 500;
+    font-size: 15px;
+    
+}

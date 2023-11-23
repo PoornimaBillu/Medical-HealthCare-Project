@@ -1,0 +1,32 @@
+.parat{
+   
+    color:azure;
+    font-size: 14px;
+    margin-top: 400px;
+}
+.par{
+    
+    color:lightgreen;
+    font-size: 44px;
+}
+/* .parat10{
+    color:lightgreen;
+    font-size: 24px;
+} */
+/* img{
+    margin-top: 100px;
+} */
+
+/* .main{
+    text-align: center;
+    margin-top: 30px;
+} */
+ /* .flex-row{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+} */
+
+.clicked{
+    border: 4px solid green;
+}

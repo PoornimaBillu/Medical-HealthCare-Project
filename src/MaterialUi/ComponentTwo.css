@@ -1,0 +1,15 @@
+.main{
+    text-align: center;
+    margin-top: 30px;
+}
+.flex-row{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+}
+.thumbnail{
+    margin-left: 20px;
+}
+.clicked{
+    border: 4px solid green;
+}

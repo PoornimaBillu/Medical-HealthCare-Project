@@ -1,0 +1,30 @@
+*,h1{
+    background-color: #272b3b;
+    color:#dcdee3;
+    /* margin-right: 1rem; */
+    margin-bottom: 20px;
+    
+}
+.head{
+    text-decoration: underline;
+    font-style: italic;
+}
+.nav-link{
+    margin-right: 2rem;
+    display: flex;
+}
+.healthImg{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 40px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    
+
+}
+
+li{
+    text-decoration: none;
+}

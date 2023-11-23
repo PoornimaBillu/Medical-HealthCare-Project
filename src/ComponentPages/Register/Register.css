@@ -1,0 +1,33 @@
+.inputFields{
+    margin-top: 20px;
+    background-color: #c8dae0;
+    border-radius: 10px;
+    border:0px solid transparent;
+    height: 2.0rem;
+    padding: 3px 70px;
+}
+.formfield{
+    
+}
+.regMain{
+    padding-top: 100px;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    background-color: white;
+    
+    border-radius: 10px;
+    
+    border: 0px solid grey;
+    margin: 10px 10px;
+   
+   
+    
+}
+#rbtn{
+    padding: 10px 40px;
+    color: green;
+    font-weight: 700;
+    
+}

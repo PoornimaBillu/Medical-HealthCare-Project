@@ -1,0 +1,40 @@
+<BrowserRouter>
+            <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+  <div className="container-fluid">
+    <Link className="navbar-brand" href="javascript:void(0)">Logo</Link>
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+      <span className="navbar-toggler-icon"></span>
+    </button>
+    <div className="collapse navbar-collapse" id="mynavbar">
+      <ul className="navbar-nav me-auto">
+        <li className="nav-item">
+          <Link className="nav-link" href="javascript:void(0)">Link</Link>
+        </li>
+        <li className="nav-item">
+          <Link className="nav-link" href="javascript:void(0)">Link</Link>
+        </li>
+        <li className="nav-item">
+          <Link className="nav-link" href="javascript:void(0)">Link</Link>
+        </li>
+      </ul>
+      <form className="d-flex">
+        <input className="form-control me-2" type="text" placeholder="Search" />
+        <button className="btn btn-primary" type="button">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+            <Routes classNameName="navLink">
+                <Route path ="/" element={<Register></Register>}>Register</Route>
+                <Route path ="/login" element={<Login></Login>}>Login</Route>
+                <Route path ="/home" element={<Home></Home>}>Home</Route>
+                <Route path ="/products" element={<Products></Products>}>Products</Route>
+                <Route path ="/services" element={<Services></Services>}>Services</Route>
+                <Route path ="/contact" element={<Contact></Contact>}>Contact</Route>
+                <Route path ="/dashboard" element={<Dashboard></Dashboard>}>Dashboard</Route>
+                
+            </Routes>
+            </BrowserRouter>
+            
+            
